@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anand Jayarajan"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Computer Science PhD student at the University of Toronto"
   location         : #"Location"
   employer         :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "CV.pdf"
 
 
 # Reading Files
