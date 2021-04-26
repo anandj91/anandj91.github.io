@@ -1,10 +1,10 @@
 ---
 title: "LifeStream: A High-Performance Stream Processing Engine for Periodic Streams"
+authors: '<p><b>Anand Jayarajan</b>, <a href="https://www.linkedin.com/in/kimberly-hau-012a9219b/">Kimberly Hau</a>, <a href="https://scholar.google.com/citations?hl=en&user=ayvh6V4AAAAJ">Andrew Goodwin</a>, <a href="http://www.cs.toronto.edu/~pekhimenko/">Gennady Pekhimenko</a></p>'
 collection: publications
 permalink: /research/lifestream
 date: 2021-04-19
 venue: '26th International Conference on Architectural Support for Programming Languages and Operating Systems'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3445814.3446725'
 ---
 <table style="width:100%; border: none;">
   <col width="25%" />

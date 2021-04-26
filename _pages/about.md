@@ -23,7 +23,7 @@ Recent News
 Publications
 ======
 - [ASPLOS '21] [LifeStream: A High-performance Stream Processing Engine for Periodic
-  Streams](http://127.0.0.1:4000/research/lifestream)
+  Streams](/research/lifestream)
    <br />
    **Anand Jayarajan**, Kimberly Hau, Andrew Goodwin, Gennady Pekhimenko
    	  
