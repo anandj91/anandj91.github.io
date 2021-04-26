@@ -22,25 +22,19 @@ Recent News
 
 Publications
 ======
-- [ASPLOS '21] [LifeStream: A High-performance Stream Processing Engine for Periodic Streams](https://arxiv.org/abs/2012.00192)
+- [ASPLOS '21] [LifeStream: A High-performance Stream Processing Engine for Periodic
+  Streams](http://127.0.0.1:4000/research/lifestream)
    <br />
    **Anand Jayarajan**, Kimberly Hau, Andrew Goodwin, Gennady Pekhimenko
-	<br />
-   About to appear at the 26th International Conference on Architectural Support for Programming Languages and Operating Systems 2021.
    	  
 - [SOSP SRC ’19] DNN Training Performance Analysis: A Divide and Conquer Approach
    <br />
    **Anand Jayarajan**, Gennady Pekhimenko
-   <br />
-   In SOSP Student Research Competition 2019.
    	  
 - [MLSys '19] [Priority-based Parameter Propagation for Distributed DNN Training](https://proceedings.mlsys.org/paper/2019/hash/d09bf41544a3365a46c9077ebb5e35c3-Abstract.html)
    <br />
    **Anand Jayarajan**, Jinliang Wei, Garth A. Gibson, Alexandra Fedorova, Gennady Pekhimenko
-   <br />
-   In Proceedings of the 2nd Conference on Machine Learning and Systems 2019.
+
 - [IISWC ’18] [Benchmarking and Analyzing Deep Neural Network Training](http://www.cs.toronto.edu/~pekhimenko/Papers/iiswc18-tbd.pdf)
    <br />
    Hongyu Zhu, Mohamed Akrout, Bojian Zheng, Andrew Pelegris, **Anand Jayarajan**, Amar Phanishayee, Bianca Schroeder, Gennady Pekhimenko
-   <br />
-   In Proceedings of the IEEE International Symposium on Workload Characterization 2018.
