@@ -20,13 +20,19 @@ Recent News
 
 Publications
 ======
-- [ASPLOS '23] TiLT: A Time-Centric Approach for Stream Query Optimization
-and Parallelization
+- [ASPLOS '23] TiLT: A Time-Centric Approach for Stream Query Optimization and Parallelization
    <br />
    **Anand Jayarajan**, Yudi Sun\*, Wei Zhao\*, Gennady Pekhimenko
  
-- [ASPLOS '21] [LifeStream: A High-performance Stream Processing Engine for Periodic
-  Streams](/research/lifestream)
+- [CHIL ’22] [How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU](https://proceedings.mlr.press/v174/tonekaboni22a.html)
+   <br />
+   Sana Tonekaboni, Gabriela Morgenshtern, Azadeh Assadi, Aslesha Pokhrel, Xi Huang, **Anand Jayarajan**, Robert Greer, Gennady Pekhimenko, Melissa McCradden, Fanny Chevalier, Mjaye Mazwi, Anna Goldenberg
+ 
+- [MICRO '21] [FPRaker: A Processing Element For Accelerating Neural Network Training](https://arxiv.org/abs/2010.08065)
+   <br />
+   Omar Mohamed Awad, Mostafa Mahmoud, Isak Edo, Ali Hadi Zadeh, Ciaran Bannon, **Anand Jayarajan**, Gennady Pekhimenko, Andreas Moshovos
+
+- [ASPLOS '21] [LifeStream: A High-performance Stream Processing Engine for Periodic Streams](/research/lifestream)
    <br />
    **Anand Jayarajan**, Kimberly Hau, Andrew Goodwin, Gennady Pekhimenko
    	  
