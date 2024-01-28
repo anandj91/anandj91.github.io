@@ -13,14 +13,13 @@ I am a fourth year PhD candidate at the department of Computer Science at the [U
 Before joining University of Toronto, I graduated with MSc in Computer Science from [University of British Columbia](https://www.cs.ubc.ca/) under the supervision of [Prof. Alexandra Fedorova](https://www.ece.ubc.ca/~sasha/) and [Prof. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/). Before that, I obtained B.Tech in Computer Science and Engineering from [National Institute of Technology Calicut](https://minerva.nitc.ac.in/).
 
 
-Recent News
-======
-- [Sep 2022] TiLT paper accepted at ASPLOS 2023.
-
-
 Publications
 ======
-- [ASPLOS '23] TiLT: A Time-Centric Approach for Stream Query Optimization and Parallelization
+- [USENIX ATC'23] [Arbitor: A Numerically Accurate Hardware Emulation Tool for DNN Accelerators](https://www.usenix.org/conference/atc23/presentation/jiang-chenhao)
+   <br />
+   Chenhao Jiang, **Anand Jayarajan**, Hao Lu, Gennady Pekhimenko
+
+- [ASPLOS '23] [TiLT: A Time-Centric Approach for Stream Query Optimization and Parallelization](https://dl.acm.org/doi/10.1145/3575693.3575704)
    <br />
    **Anand Jayarajan**, Yudi Sun\*, Wei Zhao\*, Gennady Pekhimenko
  
