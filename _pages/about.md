@@ -8,41 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate at the department of Computer Science at the [University of Toronto](https://web.cs.toronto.edu/). I am advised by [Prof. Gennady Pekhimenko](http://www.cs.toronto.edu/~pekhimenko/). I primarily focus on the area of systems research. My research interests include stream processing, systems for machine learning, and distributed/parallel computing.
+I am a sixth year PhD candidate at the department of Computer Science at the [University of Toronto](https://web.cs.toronto.edu/). I am advised by [Prof. Gennady Pekhimenko](http://www.cs.toronto.edu/~pekhimenko/). I primarily focus on the area of systems research. My research interests include stream processing, systems for machine learning, and distributed/parallel computing.
 
 Before joining University of Toronto, I graduated with MSc in Computer Science from [University of British Columbia](https://www.cs.ubc.ca/) under the supervision of [Prof. Alexandra Fedorova](https://www.ece.ubc.ca/~sasha/) and [Prof. Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/). Before that, I obtained B.Tech in Computer Science and Engineering from [National Institute of Technology Calicut](https://minerva.nitc.ac.in/).
-
-
-Publications
-======
-- [USENIX ATC'23] [Arbitor: A Numerically Accurate Hardware Emulation Tool for DNN Accelerators](https://www.usenix.org/conference/atc23/presentation/jiang-chenhao)
-   <br />
-   Chenhao Jiang, **Anand Jayarajan**, Hao Lu, Gennady Pekhimenko
-
-- [ASPLOS '23] [TiLT: A Time-Centric Approach for Stream Query Optimization and Parallelization](https://dl.acm.org/doi/10.1145/3575693.3575704)
-   <br />
-   **Anand Jayarajan**, Yudi Sun\*, Wei Zhao\*, Gennady Pekhimenko
- 
-- [CHIL ’22] [How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU](https://proceedings.mlr.press/v174/tonekaboni22a.html)
-   <br />
-   Sana Tonekaboni, Gabriela Morgenshtern, Azadeh Assadi, Aslesha Pokhrel, Xi Huang, **Anand Jayarajan**, Robert Greer, Gennady Pekhimenko, Melissa McCradden, Fanny Chevalier, Mjaye Mazwi, Anna Goldenberg
- 
-- [MICRO '21] [FPRaker: A Processing Element For Accelerating Neural Network Training](https://arxiv.org/abs/2010.08065)
-   <br />
-   Omar Mohamed Awad, Mostafa Mahmoud, Isak Edo, Ali Hadi Zadeh, Ciaran Bannon, **Anand Jayarajan**, Gennady Pekhimenko, Andreas Moshovos
-
-- [ASPLOS '21] [LifeStream: A High-performance Stream Processing Engine for Periodic Streams](/research/lifestream)
-   <br />
-   **Anand Jayarajan**, Kimberly Hau, Andrew Goodwin, Gennady Pekhimenko
-   	  
-- [SOSP SRC ’19] DNN Training Performance Analysis: A Divide and Conquer Approach
-   <br />
-   **Anand Jayarajan**, Gennady Pekhimenko
-   	  
-- [MLSys '19] [Priority-based Parameter Propagation for Distributed DNN Training](https://proceedings.mlsys.org/paper/2019/hash/d09bf41544a3365a46c9077ebb5e35c3-Abstract.html)
-   <br />
-   **Anand Jayarajan**, Jinliang Wei, Garth A. Gibson, Alexandra Fedorova, Gennady Pekhimenko
-
-- [IISWC ’18] [Benchmarking and Analyzing Deep Neural Network Training](http://www.cs.toronto.edu/~pekhimenko/Papers/iiswc18-tbd.pdf)
-   <br />
-   Hongyu Zhu, Mohamed Akrout, Bojian Zheng, Andrew Pelegris, **Anand Jayarajan**, Amar Phanishayee, Bianca Schroeder, Gennady Pekhimenko
